@@ -1,0 +1,22 @@
+{
+  "name": "pesto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourava/pesto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sourava/pesto/issues"
+  },
+  "homepage": "https://github.com/sourava/pesto#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
